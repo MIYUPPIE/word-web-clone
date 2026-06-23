@@ -47,9 +47,9 @@ A modern Microsoft Word-inspired document editor built with **React 19**, **Type
 - Print Support
 - Context-Aware Formatting
 
-[Screenshot_2026-06-23_06-14-26.png]
----
 
+---
+[Screenshot_2026-06-23_06-14-26.png]
 ## 🏗️ Tech Stack
 
 | Technology | Purpose |
