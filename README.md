@@ -3,7 +3,7 @@
 A modern Microsoft Word-inspired document editor built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **shadcn/ui**. This project recreates the familiar Microsoft Word experience in the browser with a ribbon interface, rich text editing, page-based document layout, formatting tools, image insertion, zoom controls, keyboard shortcuts, and extensible architecture for future enhancements.
 
 ---
-(Screenshot_2026-06-23_06-13-12.png)
+(/Screenshot_2026-06-23_06-13-12.png)
 ## ✨ Features
 
 ### 🏠 Home Tab
